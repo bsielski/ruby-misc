@@ -1,5 +1,5 @@
-# Similar to self-executinga anonymous functions from JavaScript
+# Similar to self-executing anonymous functions from JavaScript with lots of parentheses
 
 (lambda() {
-   puts "lololololo";
+   puts "from lambda";
  }).();
